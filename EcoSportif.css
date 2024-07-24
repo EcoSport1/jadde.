@@ -1,0 +1,140 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    }
+
+
+            nav {
+                background: #F8D677;
+                color: #026D05;
+                padding: 10px 0;
+            }
+
+            nav ul {
+                list-style: none;
+                padding: 0;
+                text-align: center;
+            }
+
+            nav ul li {
+                display: inline;
+                margin: 0 15px;
+            }
+
+            nav ul li a {
+                color: #fff;
+                text-decoration: none;
+            }
+
+            .container {
+                align-items: flex-start;
+                margin:40px 0;
+                position: relative;
+                
+            }
+
+            .pollution {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .comportements {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .ecosysteme {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .eau {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .carbonne {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .techno {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .techno {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .appli {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+            .appli {
+                align-items: flex-start;
+                margin:40px 0;
+                display: flex;
+            }
+
+            .imagedroite  {
+                margin-right: 100px;
+                width: 325px;
+                height: 325px;
+            }
+            .imagelogo {
+                top:-50px;
+                left:-10px;
+                width: 150px;
+                height: 225px;
+                position: absolute;
+            
+
+            }
+            .imagegauche {
+                margin-left: 100px;
+                width: 325px;
+                height: 325px;
+            }
+
+            .textepol, .textedau {
+                max-width: 600px;
+                font-size: 20px;
+                line-height: 1.5;
+            }
+
+            center img {
+                margin: 10px;
+            }
+
+            section {
+                padding: 20px;
+            }
+            h2{
+                text-align: center;
+                color: #026D05;
+                text-decoration-line:underline;
+            }
+            h3{
+                color:#026D05;
+                text-decoration-line:underline;
+            }
+            h1{
+                text-align: center;
+                color:#026D05 ;
+            }
+            h4{
+                text-decoration-line: underline;
+            }
+            p{
+                font-size:20px;
+                border:ridge;
+                border-radius:15px 30px 30px 5px;
+            }
+            img{
+                border-radius:20px 50px;
+            }
